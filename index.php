@@ -43,16 +43,16 @@ $APPLICATION->SetTitle("Главная");
 		"AREA_FILE_SHOW" => "file",
 		"PATH" => SITE_DIR."/include/process.php"
 	)
-);?> </section> <section id="work">
+);?> </section> <section id="games">
 <div class="container text-center wow fadeIn">
-	<h2>Портфолио</h2>
+	<h2>Каталог игр</h2>
 	<hr class="colored">
 	<p>
-		 Вот некоторые наши демо работы.
+		 Что идёт в каждом предлагаемом шлеме
 	</p>			
 <?$APPLICATION->IncludeComponent(
 	"bitrix:news.list", 
-	"portfolio", 
+	"catalog",
 	array(
 		"ACTIVE_DATE_FORMAT" => "d.m.Y",
 		"ADD_ELEMENT_CHAIN" => "N",

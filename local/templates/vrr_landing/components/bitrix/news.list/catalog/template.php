@@ -59,12 +59,12 @@ $this->setFrameMode(true);
                         </div>
                         <div class="col-lg-8 col-lg-offset-2">
                             <ul class="list-inline item-details">
-                                <li><?=GetMessage('CLIENT')?>:
-                                    <strong><a href="http://startbootstrap.com"><?echo $arItem["NAME"]?></a>
+                                <li><?=GetMessage('GAME_NAME')?>:
+                                    <strong><span><?echo $arItem["NAME"]?></span>
                                     </strong>
                                 </li>
-                                <li><?=GetMessage('WORK_TYPES')?>:
-                                    <strong><a href="http://startbootstrap.com"><?=$arItem['DISPLAY_PROPERTIES']['VIDY_RABOT']['DISPLAY_VALUE']?></a>
+                                <li><?=GetMessage('GAME_TYPE')?>:
+                                    <strong><span><?=$arItem['DISPLAY_PROPERTIES']['VIDY_RABOT']['DISPLAY_VALUE']?></span>
                                     </strong>
                                 </li>
                             </ul>

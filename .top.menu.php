@@ -1,7 +1,7 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Обо мне", 
+		"О нас",
 		"#about", 
 		Array(), 
 		Array(), 
@@ -22,19 +22,19 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Портфолио", 
-		"#work", 
+		"Каталог игр",
+		"#games",
 		Array(), 
 		Array(), 
 		"" 
 	),
-	Array(
-		"Отзывы", 
-		"#reviews", 
-		Array(), 
-		Array(), 
-		"" 
-	),
+//	[
+//		"Отзывы",
+//		"#reviews",
+//		[],
+//		[],
+//		""
+//    ],
 	Array(
 		"Контакты", 
 		"#contact", 
@@ -43,4 +43,3 @@ $aMenuLinks = Array(
 		"" 
 	)
 );
-?>

@@ -17,7 +17,8 @@ section {
   padding: 100px 0;
 }
 .bg-gray {
-  background-color: #f5f5f5;
+  background-color: #000057;
+  /*background-color: #f5f5f5;*/
 }
 .bg-dark {
   color: white;
@@ -470,7 +471,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #0a8fd5 !important;
+  background-color: #000057 !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;

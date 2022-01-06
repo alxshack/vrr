@@ -2,7 +2,7 @@
 if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)
 	die();
 ?>
-    <footer class="footer" style="background-image: url('<?=SITE_TEMPLATE_PATH?>/assets/img/bg-footer.jpg')">
+    <footer class="footer" style="background-image: url('<?=SITE_TEMPLATE_PATH?>/assets/img/creative/back01.jpg')">
         <div class="container text-center">
             <div class="row">
                 <div class="col-md-4 contact-details">

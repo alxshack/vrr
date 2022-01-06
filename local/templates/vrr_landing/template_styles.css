@@ -1,0 +1,9 @@
+html {
+    background: #020039;
+}
+body {
+    color: #fff !important;
+}
+.hard-text-shadow {
+    text-shadow: 0 0 20px #000, 0 0 30px #000, 0 0 40px #000;
+}
