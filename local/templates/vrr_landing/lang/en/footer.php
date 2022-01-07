@@ -1,5 +1,5 @@
 <?
 
-	$MESS['MADE_IN'] = "© 2015 Сделано в Invicto";
+    $MESS['MADE_IN'] = "© 2022 VRRepublic";
 	$MESS['PHONE'] = "Phone number";
 	$MESS['ADDRESS'] = "Address";
